@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <companyData>
+      <address>
+         <city>Hyderabad</city>
+         <flatNo>405</flatNo>
+         <street>Ameerpet</street>
+      </address>
+      <empInfo>
+         <element>
+            <dept>SAP</dept>
+            <name>Govardhan</name>
+            <role>Developer</role>
+         </element>
+         <element>
+            <dept>Oracle</dept>
+            <name>Surender</name>
+            <role>Developer</role>
+         </element>
+         <element>
+            <dept>UI5</dept>
+            <name>Devender</name>
+            <role>Manager</role>
+         </element>
+         <element>
+            <dept>UI5</dept>
+            <name>Venkat</name>
+            <role>Manager</role>
+         </element>
+      </empInfo>
+      <name>S-Max</name>
+      <roles>
+         <element>
+            <role>Developer</role>
+         </element>
+         <element>
+            <role>Manager</role>
+         </element>
+         <element>
+            <role>Project Manager</role>
+         </element>
+         <element>
+            <role>Deployment Manager</role>
+         </element>
+         <element>
+            <role>Deployment Manager</role>
+         </element>
+         <element>
+            <role>Deployment Manager</role>
+         </element>
+         <element>
+            <role>Deployment Manager</role>
+         </element>
+         <element>
+            <role>Deployment Manager</role>
+         </element>
+      </roles>
+   </companyData>
+</root>
